@@ -1,4 +1,4 @@
 # LeetCode
 Practice in LeetCode
-# TwoSum
+# TwoSum Practice
 Copied from Sample.
