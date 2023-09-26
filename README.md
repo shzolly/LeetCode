@@ -1,4 +1,6 @@
 # LeetCode
 Practice in LeetCode
 # Created HelloWorld
-Kick off
+Kick off first step
+# TwoSum
+Copied from Sample.
